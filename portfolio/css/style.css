@@ -1049,6 +1049,9 @@ textarea::placeholder {
     .hamburger-menu__btn-box {
         margin: 0 20px 0 0;
     }
+    .menu {
+        width: 320px;
+    }
     .header__switch-lang {
         right: 90px;
     }
